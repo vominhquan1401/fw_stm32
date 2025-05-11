@@ -20,6 +20,7 @@ void loop()
     if (checkForUpdate())
     {
       Handle();
+      outBootloaderMode();
     }
     time_update = millis();
   }
