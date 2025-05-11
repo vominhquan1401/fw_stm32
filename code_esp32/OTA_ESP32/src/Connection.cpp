@@ -8,7 +8,6 @@
 const char *ssid = "WIFI-FREE";
 const char *password = "14012004";
 const char *json_url = "https://raw.githubusercontent.com/vominhquan1401/fw_stm32/main/version.json";
-// const char *firmware_url = "https://app.coreiot.io/features/otaUpdates/fw_stm32.bin";
 const char *bearer_token = "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJxdWFuLnZvMTQwMUBoY211dC5lZHUudm4iLCJ1c2VySWQiOiJiOTBmZGJkMC0yYmIzLTExZjAtYWFlMC0wZjg1OTAzYjM2NDQiLCJzY29wZXMiOlsiVEVOQU5UX0FETUlOIl0sInNlc3Npb25JZCI6Ijc1YWFlYWZhLTM1MmItNDQ3Zi1hYmQ5LWU3YTY2N2Y2NTQ4NSIsImV4cCI6MTc0NjY4MDEzNSwiaXNzIjoiY29yZWlvdC5pbyIsImlhdCI6MTc0NjY3MTEzNSwiZmlyc3ROYW1lIjoiUVXDgk4iLCJsYXN0TmFtZSI6IlbDlSBNSU5IIiwiZW5hYmxlZCI6dHJ1ZSwiaXNQdWJsaWMiOmZhbHNlLCJ0ZW5hbnRJZCI6ImI4ZmNjOTAwLTJiYjMtMTFmMC1hYWUwLTBmODU5MDNiMzY0NCIsImN1c3RvbWVySWQiOiIxMzgxNDAwMC0xZGQyLTExYjItODA4MC04MDgwODA4MDgwODAifQ.5naFMo-8AHR_bI6gHq6CzUk6mERFrRuScBAi4RMvQd77UJYbZTi9yH36edEnocbSq90INQItvHuEwR2o5V2i3w";
 const char *local_file_path = "/firmware.bin";
 const char *version_file_path = "/version.txt";
